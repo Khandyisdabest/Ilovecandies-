@@ -1,0 +1,11 @@
+html {
+  img { 
+    width: 200px;
+   }
+  body { 
+    text-align: center;
+    font-family:'Arial';
+    background-color: white;
+    color: #300255;
+  }
+}
